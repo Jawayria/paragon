@@ -75,6 +75,12 @@ const menu = [
       { title: 'useWindowSize', url: '/hooks/useWindowSize' },
     ],
   },
+  {
+    section: 'TABLE',
+    items: [
+      { title: 'Table', url: '/components/tablenew' }
+    ]
+  }
 ];
 
 
